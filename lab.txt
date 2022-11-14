@@ -1,1 +1,2 @@
 ex 1 for lab
+ex2a for lab
